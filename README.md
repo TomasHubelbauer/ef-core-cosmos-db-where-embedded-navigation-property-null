@@ -23,3 +23,5 @@ The CosmosDB EF Core provider used is the `Microsoft.EntityFrameworkCore.Cosmos`
 
 I've tried this with both version 2 and version 3 (`3.0.0-preview4.19216.3`) and I am unable to reproduce, so I must be
 missing something which causes this to happen in the real application but is missing in my repro.
+
+## To-Do
